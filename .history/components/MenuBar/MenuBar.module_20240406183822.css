@@ -1,12 +1,11 @@
 .menubarContainer{
     display: flex;
     flex-direction: row;
+    align-items: center;
     justify-content: space-evenly;
     width: 100%;
     background-color: var(--darkGreen);
     padding: 20px;
-    position: absolute;
-    z-index: 10;
 }
 
 .menunames {
@@ -15,5 +14,5 @@
     flex-direction: row;
     align-items: center;
     justify-content: space-evenly;
-    gap: 5rem;
+    gap: 3rem;
 }

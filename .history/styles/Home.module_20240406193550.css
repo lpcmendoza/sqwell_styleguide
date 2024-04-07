@@ -3,11 +3,8 @@
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  padding-top: 6rem;
-  padding-right: 6rem;
-  padding-left: 6rem;
-  padding-bottom: 0;
+  padding: 6rem;
   min-height: 100vh;
   background-color: var(--bone);
-  
+  padding-bottom: none;
 }

@@ -1,0 +1,14 @@
+.footer{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+
+.footerContainer {
+    height: 20px;
+    margin: auto;
+    width: 500px;
+    text-align:center;
+    padding:10px;
+    color: var(--darkGreen);
+}

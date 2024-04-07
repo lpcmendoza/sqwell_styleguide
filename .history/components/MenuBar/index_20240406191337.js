@@ -18,11 +18,9 @@ export default function MenuBar() {
                         <h2>Colours</h2>
                     </li>
                     <li>
-                        <h2>Layout</h2>
+                        Layout
                     </li>
-                    <li>
-                        <h2>Iconography</h2>
-                    </li>
+                    <li>Iconography</li>
                 </ul>
             </div>
 
