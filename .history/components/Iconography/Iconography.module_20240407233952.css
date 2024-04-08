@@ -29,13 +29,12 @@
 
 .iconsList {
     list-style: none;
-    margin-top: 30px;
+    margin-top: 20px;
 }
 
 .iconsList li {
     align-self: center;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding: 5px;
 }
 
 .iconsListContainer {
@@ -45,10 +44,9 @@
 .navBar {
     text-align: center;
     margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .navBarDescription {
-    padding-left: 50px;
-    padding-right: 50px;
-    margin-bottom: 20px;
+    margin: 20px;
 }

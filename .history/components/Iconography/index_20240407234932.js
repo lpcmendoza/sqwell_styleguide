@@ -69,6 +69,7 @@ export default function Iconography(){
             </div>
             <br></br>
             <div className={styles.navBarDescription}>
+
                 <h5>Home</h5>
                 <p>The Home icon directs users to the main landing page.</p>
                 <br></br>
@@ -80,8 +81,10 @@ export default function Iconography(){
                 <br></br>
                 <h5>Profile</h5>
                 <p>The Profile icon directs users to their profile settings, including account preferences, visited parks, image galleries, and the Monthly Park Report.</p>
+                <br></br>
+                <p>These icons are chosen for their clarity and ease of understanding, ensuring smooth navigation for all users.</p>
+
             </div>
-            <p>These icons are chosen for their clarity and ease of understanding, ensuring smooth navigation for all users.</p>
         </div>
     </div>
         <div className={styles.buttonsContainer}>

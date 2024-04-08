@@ -45,10 +45,5 @@
 .navBar {
     text-align: center;
     margin-top: 20px;
-}
-
-.navBarDescription {
-    padding-left: 50px;
-    padding-right: 50px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }

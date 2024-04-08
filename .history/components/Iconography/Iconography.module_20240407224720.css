@@ -1,0 +1,24 @@
+.sectionHead {
+    border-bottom: 2px solid var(--orange);
+    margin-bottom: 40px;
+    padding-bottom: 10px;
+}
+
+.inconography {
+    display: flex;
+    flex-direction: row;
+}
+
+.inconography h3{
+    padding-bottom: 20px;
+}
+
+.iconsContainer {
+    width: 50%;
+    padding: 30px;
+}
+
+.navBarContainer {
+    width: 50%;
+    padding: 30px;
+}

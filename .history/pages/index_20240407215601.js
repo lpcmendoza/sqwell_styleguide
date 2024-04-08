@@ -18,13 +18,10 @@ export default function Home() {
       <h2>Logos</h2>
      
       <Colours/>
-      <br></br>
       <Typography/>
-    <br></br>
+    
       <Layout/>
-      <br></br>
       <Iconography/>
-      <br></br>
       </main>
 
 

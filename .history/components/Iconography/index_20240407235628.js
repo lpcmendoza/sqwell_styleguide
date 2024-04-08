@@ -80,8 +80,11 @@ export default function Iconography(){
                 <br></br>
                 <h5>Profile</h5>
                 <p>The Profile icon directs users to their profile settings, including account preferences, visited parks, image galleries, and the Monthly Park Report.</p>
+                <br></br>
+                <br></br>
+                <p>These icons are chosen for their clarity and ease of understanding, ensuring smooth navigation for all users.</p>
+
             </div>
-            <p>These icons are chosen for their clarity and ease of understanding, ensuring smooth navigation for all users.</p>
         </div>
     </div>
         <div className={styles.buttonsContainer}>
