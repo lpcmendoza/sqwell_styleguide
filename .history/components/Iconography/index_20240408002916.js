@@ -86,50 +86,15 @@ export default function Iconography(){
     </div>
         <div className={styles.buttonsContainer}>
             <h3>Buttons</h3>
-            <p></p>
-            <div className={styles.buttonsColumns}>
-                <div className={styles.buttonsActive}>
-                    <h5>Active</h5>
-                    <br></br>
-                    <div className={styles.buttons}>
-                        <Image
-                            src="/Active.png"
-                            width={260}
-                            height={53.33}
-                            alt="Sqwell active button"
-                        />
-                    </div>
-                    <br></br>
-                    <p>
-Active buttons in the Sqwell app are prominently displayed in orange to ensure visibility and to catch the user's eye.</p>
+            <div >
+                <div>
+                <h5>Active</h5>
                 </div>
-                <div className={styles.buttonsPress}>
-                    <h5>On Press</h5>
-                    <br></br>
-                    <div className={styles.buttons}>
-                        <Image
-                            src="/Press.png"
-                            width={260}
-                            height={53.33}
-                            alt="Sqwell on press button"
-                        />
-                    </div>
-                    <br></br>
-                    <p>When a button is pressed, it transitions to our dark green color, providing feedback to the user and indicating that the button has been interacted with.</p>
+                <div>
+                <h5>On Press</h5>
                 </div>
-                <div className={styles.buttonsDisabled}>
-                    <h5>Disabled</h5>
-                    <br></br>
-                    <div className={styles.buttons}>
-                        <Image
-                            src="/Disabled.png"
-                            width={260}
-                            height={53.33}
-                            alt="Sqwell disabled button"
-                        />
-                    </div>
-                    <br></br>
-                    <p>Disabled buttons are visually distinguished by being grayed out, clearly indicating that they are not currently available for interaction.</p>
+                <div>
+                <h5>Disabled</h5>
                 </div>
             </div>
             <p></p>

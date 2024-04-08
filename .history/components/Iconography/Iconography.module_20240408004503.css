@@ -56,25 +56,22 @@
 .buttonsColumns {
     display: flex;
     flex-direction: row;
-    text-align: center;
+    align-content: center;
 }
 
 .buttonsActive {
-    width: 33%;
-    margin-left: 30px;
+    width: 33%
 }
 
 .buttonsPress {
-    width: 33%;
-    margin-left: 30px;
-    margin-right: 30px;
+    width: 33%
 }
 
 .buttonsDisabled {
-    width: 33%;
-    margin-right: 30px;
+    width: 33%
 }
 
 .buttonsContainer h3 {
     padding-bottom: 20px;
 }
+

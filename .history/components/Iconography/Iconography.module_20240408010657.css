@@ -61,18 +61,18 @@
 
 .buttonsActive {
     width: 33%;
-    margin-left: 30px;
+    margin-left: 10px;
 }
 
 .buttonsPress {
     width: 33%;
-    margin-left: 30px;
-    margin-right: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .buttonsDisabled {
     width: 33%;
-    margin-right: 30px;
+    margin-right: 10px;
 }
 
 .buttonsContainer h3 {

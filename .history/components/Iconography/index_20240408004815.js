@@ -96,12 +96,11 @@ export default function Iconography(){
                             src="/Active.png"
                             width={260}
                             height={53.33}
-                            alt="Sqwell active button"
+                            alt="Sqwell Navigation Bar Icons"
                         />
                     </div>
                     <br></br>
-                    <p>
-Active buttons in the Sqwell app are prominently displayed in orange to ensure visibility and to catch the user's eye.</p>
+                    <p>sdfdsf</p>
                 </div>
                 <div className={styles.buttonsPress}>
                     <h5>On Press</h5>
@@ -111,11 +110,11 @@ Active buttons in the Sqwell app are prominently displayed in orange to ensure v
                             src="/Press.png"
                             width={260}
                             height={53.33}
-                            alt="Sqwell on press button"
+                            alt="Sqwell Navigation Bar Icons"
                         />
                     </div>
                     <br></br>
-                    <p>When a button is pressed, it transitions to our dark green color, providing feedback to the user and indicating that the button has been interacted with.</p>
+                    <p>sdfdsf</p>
                 </div>
                 <div className={styles.buttonsDisabled}>
                     <h5>Disabled</h5>
@@ -125,11 +124,11 @@ Active buttons in the Sqwell app are prominently displayed in orange to ensure v
                             src="/Disabled.png"
                             width={260}
                             height={53.33}
-                            alt="Sqwell disabled button"
+                            alt="Sqwell Navigation Bar Icons"
                         />
                     </div>
                     <br></br>
-                    <p>Disabled buttons are visually distinguished by being grayed out, clearly indicating that they are not currently available for interaction.</p>
+                    <p>sdfdsf</p>
                 </div>
             </div>
             <p></p>
