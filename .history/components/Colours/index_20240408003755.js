@@ -97,17 +97,18 @@ export default function Colours() {
                    <div className={styles.contrastParagraph}>
                     <Image
                     src={pressedButtonContrast} alt="white on dark green background" width={300} height={185} className={styles.contrastImage}/>
-                   <br></br> The contrast ratio of 9.91 between white text on a dark green background indicates strong contrast, exceeding basic accessibility standards. This high level of contrast ensures excellent readability for most users and aligns well with accessibility guidelines.
+                   <br></br> The contrast ratio of 14.36 between black text on a peach background which is often used as decoration in the background indicates strong contrast, exceeding basic accessibility standards. This high contrast ensures good readability for most users, aligning well with accessibility guidelines.
                     </div>
                     <div className={styles.contrastParagraph}>
                      <Image
                     src={purpleContrast} alt="black on purple background" width={300} height={185} className={styles.contrastImage}/>
-                    <br></br>The contrast ratio of 10.99 between black text on a light purple background signifies good contrast, surpassing basic accessibility requirements. This high contrast enhances readability for most users, aligning effectively with accessibility standards.
+                    <br></br> The contrast ratio of 14.36 between black text on a peach background which is often used as decoration in the background indicates strong contrast, exceeding basic accessibility standards. This high contrast ensures good readability for most users, aligning well with accessibility guidelines.
                      </div>
                      <div className={styles.contrastParagraph}>
+                     <div className={styles.contrastParagraph}>
                       <Image
-                    src={grayContrast} alt="black on gray background" width={300} height={185} className={styles.contrastImage}/>
-          <br></br> The contrast ratio of 15.91 between black text on a light gray background indicates exceptional contrast, far exceeding basic accessibility guidelines. This strong contrast ensures optimal readability for users across various visual abilities, aligning excellently with accessibility standards.
+                    src={grayContrast} alt="back on gray background" width={300} height={185} className={styles.contrastImage}/>
+          <br></br> The contrast ratio of 14.36 between black text on a peach background which is often used as decoration in the background indicates strong contrast, exceeding basic accessibility standards. This high contrast ensures good readability for most users, aligning well with accessibility guidelines.
            </div>
             </div>
         </>
