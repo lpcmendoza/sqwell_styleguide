@@ -1,0 +1,47 @@
+.layoutContainer {
+    position: relative;
+    display: flex; 
+    align-items: center; 
+}
+
+.imageContainer {
+    padding: 20px;
+    width: auto; 
+    position: relative;
+}
+
+.mainSection{
+    position: absolute;
+   top: 20%;
+    left:32%;
+    width: 30%;
+    font-size: var(--font-body);
+
+}
+.h4{
+    padding-top:1rem;
+    font-size: --font-h4;
+}
+.divider{
+   margin-top:2rem;
+   margin-bottom:2rem;
+   width: 98%;
+   border-color: var(--darkGreen);
+   
+}
+.layoutHeader{
+    color: var(--black); 
+    padding-bottom: 10px; 
+    width: 490%;
+    margin: 0;
+    border-bottom: 2px solid var(--orange);
+}
+.flex{
+ margin-top: 2rem;
+}
+.secondImage{
+    position: absolute;
+    top: 17%;
+    left: 77%;
+    width: auto;
+}

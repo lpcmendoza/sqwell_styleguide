@@ -14,7 +14,7 @@ export default function Home() {
     <>
     <MenuBar/>
       <main className={`${styles.main}`}>
-      <h1>Sqwell</h1>
+      <h1>Sqweeeeee</h1>
 
      <Logos/>
      <br></br>
