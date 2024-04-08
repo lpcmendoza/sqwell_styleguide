@@ -12,7 +12,7 @@
 
 .mainSection{
     position: absolute;
-   top: 20%;
+   top: 28%;
     left:32%;
     width: 30%;
     font-size: var(--font-body);
@@ -32,7 +32,7 @@
 .layoutHeader{
     color: var(--black); 
     padding-bottom: 10px; 
-    width: 490%;
+    width: 50%;
     margin: 0;
     border-bottom: 2px solid var(--orange);
 }
