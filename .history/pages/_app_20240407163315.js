@@ -1,7 +1,7 @@
 import "@/styles/globals.css";
 import type { AppProps } from 'next/app';
-import { KoHo } from '@next/font/google';
-import { Nunito } from '@next/font/google';
+import { KoHo } from "next/font/google";
+import { Nunito } from "next/font/google";
 
 const koho = KoHo({
   subsets: ['latin'],
