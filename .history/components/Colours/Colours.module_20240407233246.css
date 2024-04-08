@@ -155,10 +155,8 @@
 .contrastImage{
     padding: 1rem;
     border-radius: 1.5rem;
-    margin-bottom: 1rem;
 }
 .contrastParagraph{
-    width: 30%;
-   text-align: left;
-   padding:1.5rem;
+    width: 40%;
+   text-align: center;
 }

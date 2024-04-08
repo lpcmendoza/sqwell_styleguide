@@ -94,26 +94,14 @@ export default function Colours() {
                     src={peachContrast} alt="black on peach background" width={350} height={225} className={styles.contrastImage}/>
                   <br></br> The contrast ratio of 14.36 between black text on a peach background which is often used as decoration in the background indicates strong contrast, exceeding basic accessibility standards. This high contrast ensures good readability for most users, aligning well with accessibility guidelines.
                    </div>
-                   <div className={styles.contrastParagraph}>
                     <Image
                     src={pressedButtonContrast} alt="white on dark green background" width={350} height={225} className={styles.contrastImage}/>
-                   <br></br> The contrast ratio of 14.36 between black text on a peach background which is often used as decoration in the background indicates strong contrast, exceeding basic accessibility standards. This high contrast ensures good readability for most users, aligning well with accessibility guidelines.
-                    </div>
-                    <div className={styles.contrastParagraph}>
                      <Image
                     src={purpleContrast} alt="back on purple background" width={350} height={225} className={styles.contrastImage}/>
-                    <br></br> The contrast ratio of 14.36 between black text on a peach background which is often used as decoration in the background indicates strong contrast, exceeding basic accessibility standards. This high contrast ensures good readability for most users, aligning well with accessibility guidelines.
-                     </div>
-                     <div className={styles.contrastParagraph}>
                      <Image
                     src={purpleContrast} alt="back on purple background" width={350} height={225} className={styles.contrastImage}/>
-                    <br></br>The contrast ratio of 14.36 between black text on a peach background which is often used as decoration in the background indicates strong contrast, exceeding basic accessibility standards. This high contrast ensures good readability for most users, aligning well with accessibility guidelines.
-                     </div>
-                     <div className={styles.contrastParagraph}>
                       <Image
                     src={grayContrast} alt="back on gray background" width={350} height={225} className={styles.contrastImage}/>
-          <br></br> The contrast ratio of 14.36 between black text on a peach background which is often used as decoration in the background indicates strong contrast, exceeding basic accessibility standards. This high contrast ensures good readability for most users, aligning well with accessibility guidelines.
-           </div>
             </div>
         </>
     )

@@ -133,32 +133,4 @@
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    margin-top: 1rem;
-    align-items: center;
-    border-radius: 2rem;
-}
-.exampleHeader{
-    text-align: center;
-    padding-bottom: 2rem;
-}
-.contrastChecker{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin-top:1rem;
-}
-.contrastHeader{
-    text-align: center;
-    margin-top: 4rem;
-    margin-bottom: 1rem;
-}
-.contrastImage{
-    padding: 1rem;
-    border-radius: 1.5rem;
-    margin-bottom: 1rem;
-}
-.contrastParagraph{
-    width: 30%;
-   text-align: left;
-   padding:1.5rem;
 }

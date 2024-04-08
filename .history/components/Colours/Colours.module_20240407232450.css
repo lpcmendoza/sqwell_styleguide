@@ -135,7 +135,7 @@
     justify-content: space-around;
     margin-top: 1rem;
     align-items: center;
-    border-radius: 2rem;
+    border-radius: 1rem;
 }
 .exampleHeader{
     text-align: center;
@@ -155,10 +155,4 @@
 .contrastImage{
     padding: 1rem;
     border-radius: 1.5rem;
-    margin-bottom: 1rem;
-}
-.contrastParagraph{
-    width: 30%;
-   text-align: left;
-   padding:1.5rem;
 }
