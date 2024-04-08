@@ -106,8 +106,8 @@ export default function Colours() {
                      </div>
                      <div className={styles.contrastParagraph}>
                       <Image
-                    src={grayContrast} alt="black on gray background" width={300} height={185} className={styles.contrastImage}/>
-          <br></br> The contrast ratio of 15.91 between black text on a light gray background indicates exceptional contrast, far exceeding basic accessibility guidelines. This strong contrast ensures optimal readability for users across various visual abilities, aligning excellently with accessibility standards.
+                    src={grayContrast} alt="back on gray background" width={300} height={185} className={styles.contrastImage}/>
+          <br></br> The contrast ratio of 14.36 between black text on a peach background which is often used as decoration in the background indicates strong contrast, exceeding basic accessibility standards. This high contrast ensures good readability for most users, aligning well with accessibility guidelines.
            </div>
             </div>
         </>

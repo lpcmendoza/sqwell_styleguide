@@ -122,7 +122,9 @@
     border-bottom: 2px solid var(--black);
     width: 90%;
 }
-
+/* .purpleParagraph{
+    margin-bottom:5.3rem;
+} */
 .blackParagraph{
     padding-bottom: 2.65rem;
 }
@@ -137,7 +139,6 @@
 .exampleHeader{
     text-align: center;
     padding-bottom: 2rem;
-    border-bottom: 2px solid var(--darkGreen);
 }
 .contrastChecker{
     display: flex;
@@ -148,8 +149,7 @@
 .contrastHeader{
     text-align: center;
     margin-top: 4rem;
-    padding-bottom: 2rem;
-    border-bottom: 2px solid var(--darkGreen);
+    margin-bottom: 1rem;
 }
 .contrastImage{
     padding: 1rem;
@@ -157,7 +157,7 @@
     margin-bottom: 1rem;
 }
 .contrastParagraph{
-    width: 25%;
-   text-align: center;
+    width: 30%;
+   text-align: left;
    padding:1.5rem;
 }

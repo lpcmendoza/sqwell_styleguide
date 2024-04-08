@@ -137,7 +137,6 @@
 .exampleHeader{
     text-align: center;
     padding-bottom: 2rem;
-    border-bottom: 2px solid var(--darkGreen);
 }
 .contrastChecker{
     display: flex;
@@ -148,8 +147,7 @@
 .contrastHeader{
     text-align: center;
     margin-top: 4rem;
-    padding-bottom: 2rem;
-    border-bottom: 2px solid var(--darkGreen);
+    margin-bottom: 1rem;
 }
 .contrastImage{
     padding: 1rem;
@@ -158,6 +156,6 @@
 }
 .contrastParagraph{
     width: 25%;
-   text-align: center;
+   text-align: left;
    padding:1.5rem;
 }

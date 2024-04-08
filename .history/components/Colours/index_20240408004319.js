@@ -55,7 +55,7 @@ export default function Colours() {
                     <p className={styles.paragraph}>This blue was chosen because it is a symbol of water, nature and tranquillity which aligns with our web app’s theme. It is used within our quiz feature and select cards to differentiate content effectively. This blue contributes to a cohesive and visually appealing design aesthetic.</p>
                 </div>
             </div>       
-            <h5 className={styles.exampleHeader}>Colour Use Examples</h5>
+            <h5 className={styles.exampleHeader}>Colour Use Examples</h5><hr></hr>
             <div className={styles.colourExamples}>
                 
             <Image
