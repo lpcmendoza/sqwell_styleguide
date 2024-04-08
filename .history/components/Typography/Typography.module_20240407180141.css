@@ -1,0 +1,12 @@
+.typescaleDetails {
+    list-style: none;
+}
+
+.typescaleDetails h1 {
+    padding-bottom: 0px;
+}
+
+.sectionHead {
+    border-bottom: 2px solid var(--orange);
+    margin-bottom: 40px;
+}

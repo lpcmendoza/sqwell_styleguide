@@ -1,0 +1,9 @@
+.sectionHead {
+    font-family: var(--font-koho);
+    font-size: 3 rem;
+    color: var(--black);
+}
+
+.typscale {
+    font-family: var(--font-koho);
+}

@@ -1,0 +1,16 @@
+.footer{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    padding: 20px;
+}
+
+.footerContainer {
+    height: 10px;
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    color: var(--darkGreen);
+    margin-bottom: 0;
+}

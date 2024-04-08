@@ -1,0 +1,41 @@
+.typography {
+    display: flex;
+    flex-direction: row;
+}
+
+.typography h3{
+    padding-bottom: 20px;
+}
+
+.typescaleDetails {
+    list-style: none;
+}
+
+.typescaleDetails h3 {
+    padding-bottom: 0;
+}
+
+.typscale {
+    width: 50%;
+    padding: 20px;
+}
+
+.rationale {
+    width: 50%;
+    padding: 20px;
+}
+
+.typescaleDetails h1 {
+    padding-bottom: 0px;
+}
+
+.sectionHead {
+    border-bottom: 2px solid var(--orange);
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+}
+
+.bodyCopy {
+    font-weight: 700;
+}
+

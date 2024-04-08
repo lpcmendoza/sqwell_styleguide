@@ -1,0 +1,16 @@
+.footer{
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+}
+
+.footerContainer {
+    height: 10px;
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    color: var(--darkGreen);
+    margin-bottom: 0;
+    position: absolute;
+}
