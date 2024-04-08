@@ -1,4 +1,8 @@
-
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
 
 .footerContainer {
     height: 10px;
@@ -7,6 +11,5 @@
     text-align: center;
     padding: 10px;
     color: var(--darkGreen);
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 0;
 }

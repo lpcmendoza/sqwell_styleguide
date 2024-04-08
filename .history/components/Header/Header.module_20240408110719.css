@@ -1,0 +1,8 @@
+.headerContainer {
+    display: flex;
+    flex-direction: row;
+}
+
+.headerBlurb {
+    width: 50%;
+}

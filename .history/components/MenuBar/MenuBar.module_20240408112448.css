@@ -4,8 +4,7 @@
     justify-content: space-evenly;
     width: 100%;
     background-color: var(--darkGreen);
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding: 20px;
     position: absolute;
     z-index: 10;
 }

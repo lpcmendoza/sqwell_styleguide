@@ -1,0 +1,18 @@
+.headerContainer {
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    align-self: center;
+    margin: auto;
+    width: 100%;
+}
+
+.headerBlurb {
+    width: 45%;
+    align-content: center;
+    
+}
+
+.headerSqwee {
+    width: 50%;
+}
