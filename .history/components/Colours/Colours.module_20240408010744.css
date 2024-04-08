@@ -130,13 +130,13 @@
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    margin-top: 2rem;
+    margin-top: 1rem;
     align-items: center;
     border-radius: 2rem;
 }
 .exampleHeader{
     text-align: center;
-    padding-bottom: 2rem;
+    padding-bottom: 3rem;
     border-bottom: 2px solid var(--darkGreen);
 }
 .contrastChecker{

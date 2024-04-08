@@ -11,10 +11,7 @@
 }
 
 .mainSection{
-    position: absolute;
-   top: 20%;
-    left:32%;
-    width: 30%;
+   display: flex;
     font-size: var(--font-body);
 
 }
@@ -45,3 +42,19 @@
     left: 77%;
     width: auto;
 }
+/* .imageDivider{
+    margin-top:2rem;
+    margin-bottom:2rem;
+    width: 98%;
+    border-color: var(--darkGreen);
+} */
+/* .imageDividerContainer{
+    display: flex;
+    align-items: center;
+}
+.imageDivider{
+    width: 5px;
+    height: 100%; 
+    background-color: var(--darkGreen);
+    
+} */
