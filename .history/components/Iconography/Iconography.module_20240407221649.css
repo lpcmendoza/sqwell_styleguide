@@ -1,0 +1,18 @@
+.sectionHead {
+    border-bottom: 2px solid var(--orange);
+    margin-bottom: 40px;
+    padding-bottom: 10px;
+}
+
+.iconography {
+    display: flex;
+    flex-direction: row;
+}
+
+.iconsContainer {
+    width: 50%;
+}
+
+.buttonsContainer {
+    width: 50%;
+}
