@@ -5,7 +5,7 @@ import MenuBar from "@/components/MenuBar";
 import Footer from "@/components/Footer";
 import Typography from "@/components/Typography"
 import Colours from "@/components/Colours";
-import Layout from "@/components/Layout";
+
 
 export default function Home() {
   return (
