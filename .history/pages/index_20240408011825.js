@@ -7,17 +7,16 @@ import Typography from "@/components/Typography"
 import Colours from "@/components/Colours";
 import Layout from "@/components/Layout";
 import Iconography from "@/components/Iconography";
-import Logos from "@/components/Logos";
 
 export default function Home() {
   return (
     <>
     <MenuBar/>
       <main className={`${styles.main}`}>
-      <h1>Sqwell</h1>
+      <h1>Sqweeeeee</h1>
 
-     <Logos/>
-     <br></br>
+      <h2>Logos</h2>
+     
       <Colours/>
       <br></br>
       <Typography/>
