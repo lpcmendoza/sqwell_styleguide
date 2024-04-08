@@ -9,7 +9,7 @@
     flex-direction: row;
 }
 
-.inconography h3{
+.inconography h4{
     padding-bottom: 20px;
 }
 
@@ -72,9 +72,9 @@
 
 .buttonsDisabled {
     width: 33%;
-    margin-right: 0px;
+    margin-right: 30px;
 }
 
-.buttonsContainer h3 {
+.buttonsContainer h4 {
     padding-bottom: 20px;
 }

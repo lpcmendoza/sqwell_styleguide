@@ -5,7 +5,7 @@ export default function Footer() {
         <>
         <footer className={styles.footer}>
             <div className={styles.footerContainer}>
-                © 2024 Sqwell Team  |  D3 - Set F. All rights reserved.
+                © 2024 Made by Sqwell Team  |  D3 - Set F. All rights reserved.
             </div>
         </footer>
         </>

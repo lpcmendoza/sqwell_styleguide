@@ -26,10 +26,9 @@ export default function Home() {
       <br></br>
       <Iconography/>
       <br></br>
-      <Footer/>
       </main>
 
-
+<Footer/>
 
 
     </>

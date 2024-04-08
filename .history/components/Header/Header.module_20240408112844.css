@@ -1,0 +1,14 @@
+.headerContainer {
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+}
+
+.headerBlurb {
+    width: 45%;
+    align-content: center;
+}
+
+.headerSqwee {
+    width: 50%;
+}

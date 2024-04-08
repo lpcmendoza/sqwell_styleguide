@@ -1,0 +1,12 @@
+.headerContainer {
+    display: flex;
+    flex-direction: row;
+}
+
+.headerBlurb {
+    width: 40%;
+}
+
+.headerSqwee {
+    width: 50%;
+}

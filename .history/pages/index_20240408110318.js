@@ -7,14 +7,13 @@ import Typography from "@/components/Typography"
 import Colours from "@/components/Colours";
 import Layout from "@/components/Layout";
 import Iconography from "@/components/Iconography";
-import Header from "@/components/Header"
 
 export default function Home() {
   return (
     <>
     <MenuBar/>
       <main className={`${styles.main}`}>
-      <Header/>
+      <h1>Sqweeeeee</h1>
 
      
       <Colours/>
@@ -26,10 +25,9 @@ export default function Home() {
       <br></br>
       <Iconography/>
       <br></br>
-      <Footer/>
       </main>
 
-
+<Footer/>
 
 
     </>
