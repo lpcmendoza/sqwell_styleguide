@@ -1,0 +1,9 @@
+.layoutHeader {
+    border-bottom: 2px solid var(--orange);
+    margin-bottom: 40px;
+    padding-bottom: 10px;
+}
+
+.layoutContainer {
+
+}

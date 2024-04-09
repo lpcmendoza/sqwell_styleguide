@@ -7,10 +7,6 @@
 .layoutContainer {
     display: flex;
     flex-direction: row;
-    padding: 20px;
-    align-content: center;
-    align-items: center;
-    margin-left: 40px;;
 }
 
 .layoutContainer h3 {
@@ -19,18 +15,8 @@
 
 .layoutContainer p {
     padding-bottom: 40px;
-    align-content: center;
 }
 
 .imageOne {
-    width: 30%;
-}
-
-.imageTwo {
-    width: 30%;
-}
-
-.layoutText {
-    width: 40%;
-    margin-right: 70px;
+    width: 30%
 }
