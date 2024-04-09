@@ -13,10 +13,6 @@ import purpleContrast from '@/public/purple_black.png'
 import grayContrast from '@/public/softGray_black.png'
 import purpleAcorn from '@/public/acorn-purple.svg'
 import orangeAcorn from '@/public/acorn-orange.svg'
-import greenAcorn from '@/public/acorn-darkgreen.svg'
-import blackAcorn from '@/public/acorn-black.svg'
-import boneAcorn from '@/public/acorn-bone.svg'
-import blueAcorn from '@/public/acorn-blue.svg'
 
 export default function Colours() {
     return (
@@ -25,32 +21,24 @@ export default function Colours() {
             <div className={styles.palette}>
                 <div className={styles.pinkLavender}>
                 <Image
-                    src={purpleAcorn} alt="purple acorn" width={180} height={295} className={styles.purpleAcorn}/>
+                    src={purpleAcorn} alt="purple acorn" width={190} height={205}/>
                     <div className={styles.title}>Purple<br></br>#D4B1CF</div>
                 </div>
                 <div className={styles.pumpkin}>
                 <Image
-                    src={orangeAcorn} alt="orange acorn" width={180} height={295}/>
+                    src={orangeAcorn} alt="purple acorn" width={190} height={205}/>
                     <div className={styles.title}>Orange<br></br>#F7802B</div>
                 </div>
                 <div class={styles.darkGreen}>
-                <Image
-                    src={greenAcorn} alt="green acorn" width={180} height={295}/>
                     <div className={styles.title}>Dark Green<br></br>#3E655D</div>
                 </div>
                 <div class={styles.eerieBlack}>
-                <Image
-                    src={blackAcorn} alt="black acorn" width={180} height={295}/>
                     <div className={styles.title}>Black<br></br>#1A1D1A</div>
                 </div>
                 <div class={styles.bone}>
-                <Image
-                    src={boneAcorn} alt="bone acorn" width={180} height={295}/>
                     <div className={styles.title}>Bone<br></br>#ECE2D0</div>
                 </div>
                 <div class={styles.blue}>
-                <Image
-                    src={blueAcorn} alt="blue acorn" width={180} height={295}/>
                     <div className={styles.title}>Blue<br></br>#74B4C6</div>
                 </div>
             </div>

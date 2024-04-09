@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 115.2 114.64">
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 115.2 114.6">
   <defs>
     <style>
       .cls-1 {
         fill: #d4b1cf;
+        filter: url(#drop-shadow-1);
         stroke-width: 0px;
       }
     </style>
+    <filter id="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="2"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".5"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
   </defs>
-  <path class="cls-1" d="M45.58,7.87s9.36,5.8,11.76,17.29c0,0,14.01-18.22,29.14-16.23,15.14,2,21.12,4.49,21.12,4.49,0,0-7.18,5.93-11.62,8.92-4.44,3-20.27,6.68-31.96,3.06,0,0-4.22-.87-4.72.44,0,0,46.6,17.79,15.84,40.75-1.13,1.87-7.96,39.38-41.32,36.57,0,0,1.62,2.31-2.11,4.43,0,0-1.62.44-1.83-4.24,0,0-32.38-10.48-17.88-49.99,0,0-20.91-23.9,28.44-30.2,0,0-4.51-5.87-7.04-6.8-2.53-.94,11.19-10.23,12.18-8.55v.06Z"/>
+  <path class="cls-1" d="M45.6,7.6s9.4,5.8,11.8,17.3c0,0,14-18.2,29.1-16.2,15.1,2,21.1,4.5,21.1,4.5,0,0-7.2,5.9-11.6,8.9-4.4,3-20.3,6.7-32,3.1,0,0-4.2-.9-4.7.4,0,0,46.6,17.8,15.8,40.7-1.1,1.9-8,39.4-41.3,36.6,0,0,1.6,2.3-2.1,4.4,0,0-1.6.4-1.8-4.2,0,0-32.4-10.5-17.9-50,0,0-20.9-23.9,28.4-30.2,0,0-4.5-5.9-7-6.8-2.5-.9,11.2-10.2,12.2-8.6h0Z"/>
 </svg>

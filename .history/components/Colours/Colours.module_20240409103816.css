@@ -11,6 +11,7 @@
     gap: 3rem;
     padding-top:.5rem;
     width: auto;
+  
 }
 .descriptionContainer {
     display: grid;
@@ -31,8 +32,7 @@
 
 .title{
     position: relative;
-    margin-left: 1.7rem;
-    margin-top: -1.5rem;
+    text-align: center;
 }
 .purpleHeader{
     border-bottom: 2px solid var(--purple);
