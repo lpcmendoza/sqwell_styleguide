@@ -8,7 +8,7 @@ export default function Iconography(){
     <div className={styles.inconography}>
         <div className={styles.iconsContainer}>
             <h3>Icons</h3>
-            <p>Icons play a crucial role in the Sqwell app, aiding users in navigation and information retrieval, particularly on the individual park pages. On these pages, an interactive map provides users with an intuitive understanding of the amenities available at each park. This feature enhances user experience by visually representing park facilities, allowing for efficient exploration.</p>
+            <On>Icons play a crucial role in the Sqwell app, aiding users in navigation and information retrieval, particularly on the individual park pages. On these pages, an interactive map provides users with an intuitive understanding of the amenities available at each park. This feature enhances user experience by visually representing park facilities, allowing for efficient exploration.</p>
             <div className={styles.iconsListContainer}>
             <ul className={styles.iconsList}>
                 <li>
@@ -52,32 +52,8 @@ export default function Iconography(){
                     />
                 </li>
             </ul>
-        </div>
-        <br></br>
-        <div className={styles.badgesContainer}>
-            <h3>Scavenger Hunt Badges</h3>
-            <p>Earn special park badges by completing a Scavenger Hunt followed by a quiz. The badges you receive depend on your quiz scores. From left to right, examples of badges range from the prestigious Champion’s Badge to the Bronze Badge.</p>
-            <ul className={styles.badgeSamples}>
-                <li>
-                    <Image
-                        src="/Central-badge-variations-01.svg"
-                        width={614.09}
-                        height={125}
-                        alt="Sample Scavenger Hunt badges from Champion to Bronze - Central Park"
-                    />
-                </li>
-                <li>
-                    <Image
-                        src="/DavidLam-badge-variations-02.svg"
-                        width={614.09}
-                        height={125}
-                        alt="Sample Scavenger Hunt badges from Champion to Bronze - David Lam Park"
-                    />
-                </li>
-                </ul>
             </div>
         </div>
-    
         <div className={styles.navBarContainer}>
             <h3>Navigation Bar Icons</h3>
             <p>The Sqwell app utilizes familiar icons in its navigation bar for user-friendly predictability:</p>

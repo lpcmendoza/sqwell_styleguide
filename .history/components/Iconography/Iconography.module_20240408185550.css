@@ -29,13 +29,13 @@
 
 .iconsList {
     list-style: none;
-    margin-top: 15px;
+    margin-top: 10px;
 }
 
 .iconsList li {
     align-self: center;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 .iconsListContainer {
@@ -77,9 +77,4 @@
 
 .buttonsContainer h3 {
     padding-bottom: 20px;
-}
-
-.badgeSamples {
-    list-style: none;
-    margin-top: 15px;
 }

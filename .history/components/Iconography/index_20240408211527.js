@@ -56,22 +56,21 @@ export default function Iconography(){
         <br></br>
         <div className={styles.badgesContainer}>
             <h3>Scavenger Hunt Badges</h3>
-            <p>Earn special park badges by completing a Scavenger Hunt followed by a quiz. The badges you receive depend on your quiz scores. From left to right, examples of badges range from the prestigious Champion’s Badge to the Bronze Badge.</p>
-            <ul className={styles.badgeSamples}>
+            <ul className={styles.iconsList}>
                 <li>
                     <Image
                         src="/Central-badge-variations-01.svg"
-                        width={614.09}
-                        height={125}
-                        alt="Sample Scavenger Hunt badges from Champion to Bronze - Central Park"
+                        width={333}
+                        height={30}
+                        alt="Set 1 of icons used in Sqwell App"
                     />
                 </li>
                 <li>
                     <Image
                         src="/DavidLam-badge-variations-02.svg"
-                        width={614.09}
-                        height={125}
-                        alt="Sample Scavenger Hunt badges from Champion to Bronze - David Lam Park"
+                        width={333}
+                        height={35}
+                        alt="Set 2 of icons used in Sqwell App"
                     />
                 </li>
                 </ul>

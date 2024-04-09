@@ -56,7 +56,6 @@ export default function Iconography(){
         <br></br>
         <div className={styles.badgesContainer}>
             <h3>Scavenger Hunt Badges</h3>
-            <p>Earn special park badges by completing a Scavenger Hunt followed by a quiz. The badges you receive depend on your quiz scores. From left to right, examples of badges range from the prestigious Champion’s Badge to the Bronze Badge.</p>
             <ul className={styles.badgeSamples}>
                 <li>
                     <Image
