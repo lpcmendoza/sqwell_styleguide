@@ -68,7 +68,7 @@ export default function Iconography(){
                 </li>
                 <li>
                     <Image
-                        src="/DavidLam-badge-variations-02.png"
+                        src="/DavidLam-badge-variations-02.svg"
                         width={614.09}
                         height={125}
                         alt="Sample Scavenger Hunt badges from Champion to Bronze - David Lam Park"
