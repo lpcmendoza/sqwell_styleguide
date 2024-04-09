@@ -1,0 +1,38 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-top: 6rem;
+  padding-right: 6rem;
+  padding-left: 6rem;
+  padding-bottom: 0;
+  min-height: 100vh;
+  background-color: var(--bone);
+}
+
+.menubarContainer{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 100%;
+  background-color: var(--darkGreen);
+  padding-top: 20px;
+  padding-bottom: 20px;
+  position: absolute;
+  z-index: 10;
+  position: fixed;
+  opacity: 50%;
+}
+
+.menunames {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  gap: 5rem;
+}
+
+.menunames h5 {
+  color: white;
+}
