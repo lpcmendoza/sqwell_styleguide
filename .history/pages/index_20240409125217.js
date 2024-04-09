@@ -11,20 +11,22 @@ import MenuBar from "@/components/MenuBar";
 export default function Home() {
   return (
     <>
-      <MenuBar/>
+
       <main className={`${styles.main}`}>
-        <Header/>
-        <br></br>
-        <Colours/>
-        <br></br>
-        <Typography/>
-        <br></br>
-        <Layout/>
-        <br></br>
-        <br></br>
+        <MenuBar/>
+      <Header/>
+      
+      <br></br>
+      <Colours/>
+      <br></br>
+      <Typography/>
+      <br></br>
+      <Layout/>
+      <br></br>
+      <br></br>
         <Iconography/>
-        <br></br>
-        <Footer/>
+      <br></br>
+	<Footer/>
       </main>
       
 
