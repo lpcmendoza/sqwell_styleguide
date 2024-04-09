@@ -8,9 +8,26 @@
 }
 .palette{
     display: flex;
-    gap: 3rem;
-    padding-top:.5rem;
+    gap: 7rem;
+    padding-top:2rem;
     width: auto;
+    position: relative;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-bottom: 2rem;
+}
+.bone{
+
+}
+.darkGreen{
+   
+}
+
+.eerieBlack{
+ 
+}
+.blue{
+
 }
 .descriptionContainer {
     display: grid;
@@ -19,6 +36,7 @@
     margin-top: 4rem;
     width:75%;
     margin-left: 11rem;
+
   }
   
   .paragraph {
@@ -31,8 +49,8 @@
 
 .title{
     position: relative;
-    margin-left: 1.7rem;
-    margin-top: -1.5rem;
+    text-align: center;
+    margin-top: 7.5rem;
 }
 .purpleHeader{
     border-bottom: 2px solid var(--purple);

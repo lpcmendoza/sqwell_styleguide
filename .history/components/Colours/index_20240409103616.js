@@ -30,27 +30,27 @@ export default function Colours() {
                 </div>
                 <div className={styles.pumpkin}>
                 <Image
-                    src={orangeAcorn} alt="orange acorn" width={180} height={295}/>
+                    src={orangeAcorn} alt="orange acorn" width={190} height={205}/>
                     <div className={styles.title}>Orange<br></br>#F7802B</div>
                 </div>
                 <div class={styles.darkGreen}>
                 <Image
-                    src={greenAcorn} alt="green acorn" width={180} height={295}/>
+                    src={greenAcorn} alt="green acorn" width={190} height={205}/>
                     <div className={styles.title}>Dark Green<br></br>#3E655D</div>
                 </div>
                 <div class={styles.eerieBlack}>
                 <Image
-                    src={blackAcorn} alt="black acorn" width={180} height={295}/>
+                    src={blackAcorn} alt="black acorn" width={190} height={205}/>
                     <div className={styles.title}>Black<br></br>#1A1D1A</div>
                 </div>
                 <div class={styles.bone}>
                 <Image
-                    src={boneAcorn} alt="bone acorn" width={180} height={295}/>
+                    src={boneAcorn} alt="bone acorn" width={190} height={205}/>
                     <div className={styles.title}>Bone<br></br>#ECE2D0</div>
                 </div>
                 <div class={styles.blue}>
                 <Image
-                    src={blueAcorn} alt="blue acorn" width={180} height={295}/>
+                    src={blueAcorn} alt="blue acorn" width={190} height={205}/>
                     <div className={styles.title}>Blue<br></br>#74B4C6</div>
                 </div>
             </div>

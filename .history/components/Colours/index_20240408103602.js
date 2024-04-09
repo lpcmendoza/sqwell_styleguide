@@ -11,12 +11,6 @@ import peachContrast from '@/public/peach_black.png'
 import pressedButtonContrast from '@/public/pressed_button.png'
 import purpleContrast from '@/public/purple_black.png'
 import grayContrast from '@/public/softGray_black.png'
-import purpleAcorn from '@/public/acorn-purple.svg'
-import orangeAcorn from '@/public/acorn-orange.svg'
-import greenAcorn from '@/public/acorn-darkgreen.svg'
-import blackAcorn from '@/public/acorn-black.svg'
-import boneAcorn from '@/public/acorn-bone.svg'
-import blueAcorn from '@/public/acorn-blue.svg'
 
 export default function Colours() {
     return (
@@ -24,33 +18,21 @@ export default function Colours() {
             <h2 className={styles.header}>Colour Palette</h2>
             <div className={styles.palette}>
                 <div className={styles.pinkLavender}>
-                <Image
-                    src={purpleAcorn} alt="purple acorn" width={180} height={295} className={styles.purpleAcorn}/>
                     <div className={styles.title}>Purple<br></br>#D4B1CF</div>
                 </div>
                 <div className={styles.pumpkin}>
-                <Image
-                    src={orangeAcorn} alt="orange acorn" width={180} height={295}/>
                     <div className={styles.title}>Orange<br></br>#F7802B</div>
                 </div>
                 <div class={styles.darkGreen}>
-                <Image
-                    src={greenAcorn} alt="green acorn" width={180} height={295}/>
                     <div className={styles.title}>Dark Green<br></br>#3E655D</div>
                 </div>
                 <div class={styles.eerieBlack}>
-                <Image
-                    src={blackAcorn} alt="black acorn" width={180} height={295}/>
                     <div className={styles.title}>Black<br></br>#1A1D1A</div>
                 </div>
                 <div class={styles.bone}>
-                <Image
-                    src={boneAcorn} alt="bone acorn" width={180} height={295}/>
                     <div className={styles.title}>Bone<br></br>#ECE2D0</div>
                 </div>
                 <div class={styles.blue}>
-                <Image
-                    src={blueAcorn} alt="blue acorn" width={180} height={295}/>
                     <div className={styles.title}>Blue<br></br>#74B4C6</div>
                 </div>
             </div>
@@ -110,12 +92,12 @@ export default function Colours() {
                     <div className={styles.contrastParagraph}>
                      <Image
                     src={peachContrast} alt="black on peach background" width={300} height={185} className={styles.contrastImage}/>
-                  <br></br> The contrast ratio of 14.36 between black text on peach indicates strong contrast. This combination is often used as a graphich decoration in the background of most pages, exceeding basic accessibility standards. This high contrast ensures good readability for most users, aligning well with accessibility guidelines.
+                  <br></br> The contrast ratio of 14.36 between black text on a peach background which is often used as decoration in the background indicates strong contrast, exceeding basic accessibility standards. This high contrast ensures good readability for most users, aligning well with accessibility guidelines.
                    </div>
                    <div className={styles.contrastParagraph}>
                     <Image
                     src={pressedButtonContrast} alt="white on dark green background" width={300} height={185} className={styles.contrastImage}/>
-                   <br></br> The contrast ratio of 9.91 between white text on a dark green background indicates strong contrast, exceeding basic accessibility standards. This combination is used when buttons in the web app are being pressed on for visual feedback. This high level of contrast ensures excellent readability for most users and aligns well with accessibility guidelines.
+                   <br></br> The contrast ratio of 9.91 between white text on a dark green background indicates strong contrast, exceeding basic accessibility standards. This combination is use when buttons in the web app are being pressed on for visual feedback. This high level of contrast ensures excellent readability for most users and aligns well with accessibility guidelines.
                     </div>
                     <div className={styles.contrastParagraph}>
                      <Image
