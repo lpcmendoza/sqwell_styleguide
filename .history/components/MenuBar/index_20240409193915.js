@@ -22,7 +22,7 @@ export default function MenuBar() {
                     <Link href="/Layout"><h5>Layout</h5></Link>
                     </li>
                     <li>
-                    <Link href="/Iconography"><h5>Iconography</h5></Link>
+                        <h5>Iconography</h5>
                     </li>
                 </ul>
             </div>
