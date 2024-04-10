@@ -25,10 +25,7 @@
     color: white;
 }
 
-.menu:hover h5 {
-    color: var(--orange);
-}
-
-.menu {
-    text-decoration: none;
+.menu:hover {
+    color: rgba(255, 255, 255, 0.7);
+    border-bottom: 2px solid var(--orange);
 }

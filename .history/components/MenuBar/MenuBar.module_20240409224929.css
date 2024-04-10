@@ -25,7 +25,8 @@
     color: white;
 }
 
-.menu:hover h5 {
+.menu:hover {
+    text-decoration: none;
     color: var(--orange);
 }
 

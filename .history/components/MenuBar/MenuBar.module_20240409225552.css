@@ -25,7 +25,7 @@
     color: white;
 }
 
-.menu:hover h5 {
+.menu:hover {
     color: var(--orange);
 }
 
