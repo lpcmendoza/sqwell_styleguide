@@ -1,0 +1,52 @@
+.main {
+    justify-content: space-between;
+    padding-top: 6rem;
+    padding-right: 6rem;
+    padding-left: 6rem;
+    padding-bottom: 0;
+    min-height: 100vh;
+    background-color: var(--bone);
+  }
+
+.typography {
+    display: flex;
+    flex-direction: row;
+}
+
+.typography h3{
+    padding-bottom: 20px;
+}
+
+.typescaleDetails {
+    list-style: none;
+}
+
+.typescaleDetails h3 {
+    padding-bottom: 0;
+}
+
+.typscale {
+    width: 50%;
+    padding: 30px;
+}
+
+.rationale {
+    width: 50%;
+    padding: 30px;
+}
+
+.typescaleDetails h1 {
+    padding-bottom: 0px;
+}
+
+.sectionHead {
+    border-bottom: 2px solid var(--orange);
+    margin-bottom: 40px;
+    padding-bottom: 10px;
+    padding-top: 40px;
+}
+
+.bodyCopy {
+    font-weight: 700;
+}
+

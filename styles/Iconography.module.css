@@ -1,0 +1,98 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-top: 6rem;
+    padding-right: 6rem;
+    padding-left: 6rem;
+    padding-bottom: 0;
+    min-height: 100vh;
+    background-color: var(--bone);
+  }
+
+.sectionHead {
+    margin-top: 40px;
+    border-bottom: 2px solid var(--orange);
+    margin-bottom: 40px;
+    padding-bottom: 10px;
+}
+
+.inconography {
+    display: flex;
+    flex-direction: row;
+}
+
+.inconography h3{
+    padding-bottom: 20px;
+}
+
+.iconsContainer {
+    width: 50%;
+    padding: 30px;
+}
+
+.navBarContainer {
+    width: 50%;
+    padding: 30px;
+}
+
+.buttonsContainer {
+    padding: 30px;
+}
+
+.iconsList {
+    list-style: none;
+    margin-top: 15px;
+}
+
+.iconsList li {
+    align-self: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.iconsListContainer {
+    text-align: center;
+}
+
+.navBar {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.navBarDescription {
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-bottom: 20px;
+}
+
+.buttonsColumns {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+.buttonsActive {
+    width: 33%;
+    margin-left: 30px;
+}
+
+.buttonsPress {
+    width: 33%;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.buttonsDisabled {
+    width: 33%;
+    margin-right: 0px;
+}
+
+.buttonsContainer h3 {
+    padding-bottom: 20px;
+}
+
+.badgeSamples {
+    list-style: none;
+    margin-top: 15px;
+}
