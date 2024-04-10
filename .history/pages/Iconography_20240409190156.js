@@ -161,11 +161,8 @@ Active buttons in the Sqwell app are prominently displayed in orange to ensure v
             <p></p>
 
         </div>
-        <br></br>
-        <br></br>
-        <Footer />
         </main>
-        
+        <Footer />
     </>
     )
 }

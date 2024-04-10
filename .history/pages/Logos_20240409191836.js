@@ -8,12 +8,8 @@ export default function Logos(){
         <MenuBar/>
         <main className={`${styles.main}`}>
         <h2 className={styles.header}>Logos</h2>
-        
-        <br></br>
-        <br></br>
-        <Footer/>
         </main>
-        
+        <Footer/>
         </>
     )
 }

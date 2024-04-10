@@ -12,7 +12,6 @@ export default function Layout(){
         <MenuBar/>
         <main className={`${styles.main}`}>
             <h2 className={styles.layoutHeader}>Layout</h2>
-            <br></br>
             <div className={styles.layoutContainer}>
                 <div className={styles.imageOne}>
                     <Image

@@ -10,6 +10,7 @@ export default function Layout(){
     return(
         <>
         <MenuBar/>
+
         <main className={`${styles.main}`}>
             <h2 className={styles.layoutHeader}>Layout</h2>
             <br></br>

@@ -134,9 +134,8 @@ export default function Colours() {
             </div>
             <br></br>
             <br></br>
-            <Footer/>
             </main>
-            
+            <Footer/>
         </>
     )
 }
