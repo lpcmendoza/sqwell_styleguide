@@ -83,16 +83,14 @@
   display: flex;
  flex-direction: row;
  justify-content: space-around;
- margin-bottom: 6rem;
- gap:2rem;
+ margin-bottom: 7.7rem;
+ gap:1rem;
 }
 .squishedlogo{
   padding:20px;
   
 }
-.stretchedlogo{
-  margin-top:2rem;
-}
+
 .clearSpaceLogo{
   border: 4px dashed #c4b18e;
   padding:24px;
