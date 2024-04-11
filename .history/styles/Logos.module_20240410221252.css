@@ -93,7 +93,7 @@
 .clearSpaceLogo{
   border: 4px dashed #c4b18e;
   padding:24px;
- display:inline-block;
+ 
 }
 .rationale {
   margin-right: 36.3rem;
@@ -113,13 +113,11 @@
   margin-bottom:1rem;
 }
 .verticalClearSpace{
- margin-top:2rem;
+ 
 }
 .spaceImagesContainer{
   display: flex;
   flex-direction: column;
-margin-top:3rem;
-margin-left:2rem;
-align-items: center;
-
+margin-top:2rem;
+  gap:2rem;
 }
