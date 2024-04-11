@@ -165,7 +165,7 @@ export default function Logos(){
             width={333}
             height={119}
         />
-    
+    </div>
     </div>
     <div className={styles.verticalClearSpace}>
     <Image
@@ -174,7 +174,6 @@ export default function Logos(){
             width={226}
             height={217}
         />
-    </div>
     </div>
     </div>
         <br></br>

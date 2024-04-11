@@ -157,7 +157,6 @@ export default function Logos(){
     </div>
     </div>
     </div>
-    <div className={styles.spaceImagesContainer}>
     <div className={styles.clearSpaceLogo}>
     <Image
             src="/colour-logo.svg"
@@ -165,7 +164,7 @@ export default function Logos(){
             width={333}
             height={119}
         />
-    
+    </div>
     </div>
     <div className={styles.verticalClearSpace}>
     <Image
@@ -174,8 +173,6 @@ export default function Logos(){
             width={226}
             height={217}
         />
-    </div>
-    </div>
     </div>
         <br></br>
         <br></br>

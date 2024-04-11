@@ -118,8 +118,8 @@
 .spaceImagesContainer{
   display: flex;
   flex-direction: column;
-margin-top:3rem;
+margin-top:2rem;
 margin-left:2rem;
-align-items: center;
+
 
 }
