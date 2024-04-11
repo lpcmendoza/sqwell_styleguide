@@ -1,0 +1,76 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-top: 6rem;
+    padding-right: 6rem;
+    padding-left: 6rem;
+    padding-bottom: 0;
+    min-height: 100vh;
+    background-color: var(--bone);
+  }
+
+  .header {
+    border-bottom: 2px solid var(--orange);
+    margin-top: 40px;
+    padding-bottom: 10px;
+  }
+  .rationale {
+    width: 50%;
+    padding-top: 6rem;
+    padding-left:30px;
+   
+}
+.container {
+    display: flex;
+}
+
+.logoDescription {
+    padding: 30px;
+    width: 45%;
+   
+}
+.verticalLogo {
+    padding-left: 6.5rem;
+    margin-top: -4rem;
+}
+.colourLogo{
+  margin-top: 3.5rem;
+  border: 2px solid black;
+  padding:48px;
+  display: inline-block;
+}
+.grayLogo{
+  margin-top: 6rem;
+}
+.monochromeLogo{
+  margin-top: 2rem;
+}
+.blackAndWhiteLogo{
+  margin-top: 2rem;
+}
+.colourLogoContainer {
+  display: inline-block;
+  position: relative;
+}
+
+.colourLogoContainer::before,
+.colourLogoContainer::after {
+  content: '';
+  position: absolute;
+  width: 20px; /* Adjust as needed */
+  height: 20px; /* Adjust as needed */
+  border: 2px solid black;
+}
+
+.colourLogoContainer::before {
+  top: 0;
+  left: 0;
+  border-top-left-radius: 10px; /* Adjust the radius as needed */
+}
+
+.colourLogoContainer::after {
+  bottom: 0;
+  right: 0;
+  border-bottom-right-radius: 10px; /* Adjust the radius as needed */
+}

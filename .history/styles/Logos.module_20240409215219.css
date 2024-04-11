@@ -1,0 +1,56 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-top: 6rem;
+    padding-right: 6rem;
+    padding-left: 6rem;
+    padding-bottom: 0;
+    min-height: 100vh;
+    background-color: var(--bone);
+  }
+
+  .header {
+    border-bottom: 2px solid var(--orange);
+    margin-top: 40px;
+    padding-bottom: 10px;
+  }
+  .rationale {
+    width: 50%;
+    padding-top: 6rem;
+    padding-left:30px;
+   
+}
+.container {
+    display: flex;
+}
+
+.logoDescription {
+    padding: 30px;
+    width: 45%;
+   
+}
+.verticalLogo {
+    padding-left: 6.5rem;
+    margin-top: -4rem;
+}
+.colourLogoContainer{
+  display: inline-block;
+  border: 2px solid black;
+}
+
+.colourLogo{
+  margin-top: 3.5rem;
+  
+  padding-top: 24px;
+  
+}
+.grayLogo{
+  margin-top: 6rem;
+}
+.monochromeLogo{
+  margin-top: 2rem;
+}
+.blackAndWhiteLogo{
+  margin-top: 2rem;
+}
