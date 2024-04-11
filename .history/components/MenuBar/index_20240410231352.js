@@ -1,4 +1,4 @@
-import styles from './MenuBar.module.css';
+import styles from './MenuBar.module.css'
 import Link from 'next/link';
 
 export default function MenuBar() {
