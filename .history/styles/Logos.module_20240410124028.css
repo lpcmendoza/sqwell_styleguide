@@ -1,0 +1,83 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-top: 6rem;
+    padding-right: 6rem;
+    padding-left: 6rem;
+    padding-bottom: 0;
+    min-height: 100vh;
+    background-color: var(--bone);
+  }
+
+  .header {
+    border-bottom: 2px solid var(--orange);
+    margin-top: 40px;
+    padding-bottom: 10px;
+  }
+  .rationale {
+  margin-right: 36rem;
+   
+}
+.container {
+    display: flex;
+  align-items: center;
+    flex-direction: column;
+    margin-top: 4rem;
+}
+
+.logoDescription {
+    padding: 30px;
+    width: 40%;
+}
+.logoVariations{
+  display: flex;
+ flex-wrap: wrap;
+ gap:8rem;
+ justify-content: center;
+}
+
+.colourLogo{
+  margin-top: 6rem;
+  border: 4px dashed #c4b18e;
+  padding:48px;
+  display: inline-block;
+ 
+}
+
+.blackWhiteHeader{
+  margin-bottom:3rem;
+  float: left;
+}
+.monochromeHeader{
+  margin-bottom:3rem;
+  float: left;
+}
+.verticalHeader{
+  margin-bottom:3rem;
+  float: left;
+}
+.colourHeader{
+  float: left;
+  margin-right:6rem;
+  margin-top:14.5rem;
+}
+.grayHeader{
+  margin-bottom:3rem;
+  float: left;
+}
+.favicons{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 3rem;
+  margin-top:8rem;
+  align-items: left;
+}
+.faviconHeader{
+  margin-bottom:1.5rem;
+}
+.faviconTitle{
+  margin-right: 5rem;
+  
+}
